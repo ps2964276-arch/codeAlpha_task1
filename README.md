@@ -31,5 +31,27 @@ limited chances to guess the correct letters.
 
 ## Author
 Priyanshu Singh
+---
+
+## 🔹 Basic Chatbot (Python)
+
+### Description
+This is a simple rule-based chatbot built using Python.
+It responds to user input based on predefined conditions.
+
+### Features
+- Responds to greetings like hi and hello
+- Answers basic questions
+- Exit option using 'bye'
+
+### Technologies Used
+- Python
+
+### How to Run
+
+### What I Learned
+- Conditional statements
+- While loop
+- User interaction in Python
 
 
