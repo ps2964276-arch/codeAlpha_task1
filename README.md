@@ -1,2 +1,2 @@
-# codeAlpha_task1
+# codeAlpha_task
 My internship project for CodeAlpha
